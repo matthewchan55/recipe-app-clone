@@ -1,5 +1,5 @@
 # recipe-app-clone
--practises on HTML, CSS, Javascript
+-practises on HTML, CSS, Javascript <br/>
 -practises on localstorage
 
 ![home](https://github.com/matthewchan55/recipe-app-clone/assets/75091114/d16d94ca-13b9-4819-be31-b1ff111d87af)
